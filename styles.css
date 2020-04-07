@@ -1,0 +1,272 @@
+ body {
+     background-image: url('https://images.freecreatives.com/wp-content/uploads/2015/12/Grey-Floral-Pattern-for-Website-Background.jpg');
+ }
+
+#title {
+    color: darkolivegreen;
+    text-align: center;
+    background-color: white;
+    font-family: "Amatic SC";
+    font-size: 25px;
+}
+
+#title h1 {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#colors {
+    color: greenyellow;
+    text-align: center;
+    background-color: lightseagreen;;
+    font-family: "Amatic SC";
+    font-size: 20px;
+}
+
+#colors h1 {
+    font-weight: bold;
+
+}
+
+#container-blue {
+    background-color: #0000ff;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-green {
+    background-color:#008000;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-red {
+    background-color: #ff0000;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-yellow {
+    background-color: #ffff00;
+    color: black;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-purple {
+    background-color: #800080;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-brown {
+    background-color:#a52a2a;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-gray {
+    background-color: #808080;
+    color: black;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-black {
+    background-color: #000000;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-white {
+    background-color: #ffffff;
+    color: black;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#container-maroon {
+    background-color:#800000;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+#container-fuchsia {
+    background-color:#ff00ff;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+
+#container-navy {
+    background-color: #000080;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+#container-teal {
+    background-color: #008080;
+    color: white;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+#container-orange {
+    background-color: #ffa500;
+    color: black;
+    font-family: "Amatic SC";
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+#fonts {
+    color: lightpink;
+    text-align: center;
+    background-color: lightcoral;;
+    font-family: "Amatic SC";
+    font-size: 20px;
+}
+
+#fonts h1 {
+    font-weight: bold;
+}
+
+#amatic-sc {
+    color: black;
+    background-color: lightcoral;
+    font-family: "Amatic SC";
+    font-size: 20px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#shrikhand {
+    font-family: "Shrikhand";
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#caveat {
+    font-family: "Caveat";
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#dancing-script {
+    font-family: "Dancing Script";
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#gruppo {
+    font-family: "Gruppo";
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#pacifico {
+    font-family: "Pacifico";
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#parisienne {
+    font-family: "Parisienne";
+    color: black;
+    font-size: 18px;
+    display: inline-block;
+    margin: 20px;
+
+}
+
+#text-styles {
+    color: brown;
+    text-align: center;
+    background-color: goldenrod;
+    font-family: "Amatic SC";
+    font-size: 20px;
+
+}
+
+#text-styles h1 {
+    font-weight: bold;
+    color: maroon;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+}
